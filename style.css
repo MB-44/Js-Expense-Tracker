@@ -1,0 +1,21 @@
+.inputNumber{
+    align-items: center;
+    width: 200px;
+    height: 20px;
+}
+
+.type{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100px;
+    height: 30px;
+}
+
+.income{
+    color: rgb(42, 148, 42);
+}
+
+.outcome{
+    color: rgb(212, 114, 114);
+}
